@@ -1,6 +1,6 @@
 # telegram-message-sender-portlet
 
-Portlet that sends messages through https://github.com/asanchez156/api_telegram_client_sender API and stores the message into liferay portal database.
+Liferay portlet that sends messages through https://github.com/asanchez156/api_telegram_client_sender API and stores the message into liferay portal database.
 
 ##Installation requirements: 
 
