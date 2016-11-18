@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.test.model.Entry">
+		<field name="tm_Id" type="long" />
+		<field name="user" type="String" />
+		<field name="message" type="String" />
+		<field name="date" type="String" />
+	</model>
+</model-hints>
